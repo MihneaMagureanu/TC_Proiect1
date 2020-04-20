@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1587400768 source:d:\facultate\tc\proiect1_c++\main.cpp
+1587401045 source:d:\facultate\tc\proiect1_c++\main.cpp
 	<iostream>
 	<fstream>
 	<stack>
