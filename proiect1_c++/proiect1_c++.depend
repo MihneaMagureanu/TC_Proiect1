@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1587400768 source:d:\facultate\tc\proiect1_c++\main.cpp
+	<iostream>
+	<fstream>
+	<stack>
+	<queue>
+	<cstdlib>
+	<stdio.h>
+	<string.h>
+
